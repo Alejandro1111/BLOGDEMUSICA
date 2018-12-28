@@ -1,0 +1,17 @@
+body{background-color:#762933;}
+.sociales{margin-top: 30vh;
+}
+.logo{float: auto;
+    margin: 20px;
+    transform: translate(100px,60px);
+    border-radius: 5px;
+
+}
+.navbar{background-color:#7a4448;
+}
+.container{justify-content: center;}
+.img-rounded{float: right;}
+.img{float: left ;
+border-radius: 10px;}
+.navbar{flex-direction: column;
+display: flex;}
